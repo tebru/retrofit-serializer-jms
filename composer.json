@@ -1,0 +1,17 @@
+{
+    "name": "tebru/retrofit-serializer-jms",
+    "description": "JMS Serializer adapter for retrofit-php",
+    "require": {
+        "jms/serializer": "^1.0"
+    },
+    "require-dev": {
+        "tebru/retrofit-php": "^2.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nate Brunette",
+            "email": "n@tebru.net"
+        }
+    ]
+}
