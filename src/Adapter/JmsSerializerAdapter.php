@@ -3,7 +3,7 @@
  * File JmsSerializerAdapter.php
  */
 
-namespace Tebru\Retrofit\Adapter\Serializer;
+namespace Tebru\RetrofitSerializer\Adapter;
 
 use JMS\Serializer\DeserializationContext;
 use JMS\Serializer\SerializationContext;
@@ -14,7 +14,7 @@ use Tebru\Retrofit\Adapter\SerializerAdapter;
 /**
  * Class JmsSerializerAdapter
  *
- * @author Nate Brunette <nbrunett@nerdery.com>
+ * @author Nate Brunette <n@tebru.net>
  */
 class JmsSerializerAdapter implements SerializerAdapter, DeserializerAdapter
 {
