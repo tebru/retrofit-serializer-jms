@@ -7,6 +7,11 @@
     "require-dev": {
         "tebru/retrofit-php": "^2.8"
     },
+    "autoload": {
+        "psr-4": {
+            "Tebru\\RetrofitSerializer\\": "src/"
+        }
+    },
     "license": "MIT",
     "authors": [
         {
